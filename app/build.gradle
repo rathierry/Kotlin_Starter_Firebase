@@ -2,7 +2,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'kotlin-kapt'
 apply plugin: 'androidx.navigation.safeargs'
-apply plugin: 'com.google.gms.google-services'
 apply plugin: 'kotlin-android-extensions'
 
 android {
@@ -91,3 +90,4 @@ dependencies {
     // google auth
     implementation 'com.google.android.gms:play-services-auth:18.1.0'
 }
+// apply plugin: 'com.google.gms.google-services'
