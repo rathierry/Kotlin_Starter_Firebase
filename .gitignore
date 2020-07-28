@@ -54,9 +54,13 @@ build
 
 # IntelliJ Files
 .idea/
+.idea/*
+/.idea/*
 *.iml
 *.iws
 *.ipr
+*.externalNativeBuild
+*.cxx
 
 # Compiled class file
 *.class
