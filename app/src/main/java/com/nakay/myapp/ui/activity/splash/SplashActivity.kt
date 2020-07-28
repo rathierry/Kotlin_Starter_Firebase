@@ -2,7 +2,6 @@ package com.nakay.myapp.ui.activity.splash
 
 import android.os.Bundle
 import android.view.Window
-import android.view.WindowManager
 import androidx.appcompat.app.AppCompatActivity
 import com.nakay.myapp.R
 
