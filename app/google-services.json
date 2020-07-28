@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "525472070731",
+    "firebase_url": "https://production-a9404.firebaseio.com",
+    "project_id": "production-a9404",
+    "storage_bucket": "production-a9404.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525472070731:android:e95283c3a1e72192",
+        "android_client_info": {
+          "package_name": "com.florian.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525472070731-mg8m3q8v9vp1port7nkbq9le65hp917t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseYt_NDZtWHrdPsz6UZqJZAFbAi_rHic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525472070731-beplqr2o2b1istjgnabmq30hvjrvnpq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525472070731-qqoalp433dvc3enum8pnsb4o6ub1vkj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.instamobile.dating.swift"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525472070731:android:7a4f6c2f567e2511",
+        "android_client_info": {
+          "package_name": "com.instadating"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525472070731-mg8m3q8v9vp1port7nkbq9le65hp917t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseYt_NDZtWHrdPsz6UZqJZAFbAi_rHic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525472070731-beplqr2o2b1istjgnabmq30hvjrvnpq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525472070731-qqoalp433dvc3enum8pnsb4o6ub1vkj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.instamobile.dating.swift"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525472070731:android:b9b05d9ddfa36c94ba61ce",
+        "android_client_info": {
+          "package_name": "com.instamobile.firebaseStarterKit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525472070731-47v9iel9jac06uvquchd3n8scpl90qq2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.instamobile.firebaseStarterKit",
+            "certificate_hash": "224d33c367d70baa99a96f38e95c311b7aa35f92"
+          }
+        },
+        {
+          "client_id": "525472070731-mg8m3q8v9vp1port7nkbq9le65hp917t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseYt_NDZtWHrdPsz6UZqJZAFbAi_rHic"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525472070731-beplqr2o2b1istjgnabmq30hvjrvnpq3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "525472070731-qqoalp433dvc3enum8pnsb4o6ub1vkj9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.instamobile.dating.swift"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
