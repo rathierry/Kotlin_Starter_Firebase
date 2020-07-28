@@ -1,7 +1,8 @@
-package com.nakay.myapp
+package com.nakay.myapp.ui.activity.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.nakay.myapp.R
 
 class MainActivity : AppCompatActivity() {
 
